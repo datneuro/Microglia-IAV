@@ -22,13 +22,13 @@ Thi Len Ho<sup>1,#</sup>, Huu Dat Nguyen<sup>2,3,#</sup>, Eun-Ju Ko<sup>1,\*</su
 ## Affiliations
 
 1. Interdisciplinary Graduate Program in Advanced Convergence Technology & Science, Jeju National University, Jeju, Republic of Korea
-2. Department of Medical Sciences, Graduate School of Hallym University, Chuncheon, Gangwon 24252, Republic of Korea
+2. Laboratory of Parkinson’s Disease and Neurodegenerative disease, Hallym Institute for Translational Medicine, Anyang, Gyeonggi, Republic of Korea
 3. Department of Neurology, Hallym University Sacred Heart Hospital, Hallym University, Anyang, Gyeonggi 14068, Republic of Korea
 
 ## Correspondence
 
-- Eun-Ju Ko — `____@____`
-- Young Eun Kim — `____@____`
+- Prof. Eun-Ju Ko DVM., Ph.D.— [Email:]
+- Prof. Young Eun Kim M.D., Ph.D. — [Email:]
 
 ---
 
