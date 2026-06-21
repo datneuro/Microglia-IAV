@@ -1,4 +1,4 @@
-# Influenza A virus drives a strain-dependent activation programme and α-synuclein accumulation in human microglia
+# Influenza A virus drives a strain-dependent activation programme and specific α-synuclein species in human microglia
 
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue)
 ![R](https://img.shields.io/badge/R-4.4.2-276DC3)
