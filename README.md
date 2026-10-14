@@ -27,10 +27,10 @@ Thi Len Ho<sup>1,#</sup>, Huu Dat Nguyen<sup>2,3,#</sup>, Eun-Ju Ko<sup>1,\*</su
 
 ## Correspondence
 
-- Prof. Eun-Ju Ko DVM., Ph.D.— [Email:]
-- Prof. Young Eun Kim M.D., Ph.D. — [Email:]
+- Prof. Eun-Ju Ko DVM., Ph.D.
+- Prof. Young Eun Kim M.D., Ph.D. 
 
----
+--
 
 ## Repository structure
 
