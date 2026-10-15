@@ -36,7 +36,7 @@ Run every script **from the repository root**.
 
 | Module | Run order |
 |---|---|
-| `01_Flow_ELISA/` | `Prep/01–03` → `00–03`; `Infected_vs_Bystander/Run-All.R` |
+| `01_Flow_ELISA/` | `00–03`; `Infected_vs_Bystander/Run-All.R` |
 | `02_RT-qPCR/` | `00` → `01` → `02` → `03` |
 | `03_Proteasome/` | `02` (rate windows) → `01` |
 | `04_Western_Blot/` | `00` → `01` → `02` → `03` → `04` |
